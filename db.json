@@ -1,31 +1,20 @@
 {
-  "posts": [
+  "devices": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "iccid": 123456789,
+      "name": "Pippo's Smart Case",
+      "is_connected": true,
+      "battery_level": 80,
+      "helmet_present": false,
+      "case_open": true,
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "iccid": 987654321,
+      "title": "Mario's Smart Case",
+      "is_connected": false,
+      "battery_level": 80,
+      "helmet_present": false,
+      "case_open": true,
     },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
