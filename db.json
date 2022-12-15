@@ -3,18 +3,18 @@
     {
       "iccid": 123456789,
       "name": "Pippo's Smart Case",
-      "is_connected": true,
+      "is_connected": "true",
       "battery_level": 80,
-      "helmet_present": false,
-      "case_open": true
+      "helmet_present": "false",
+      "case_open": "true"
     },
     {
       "iccid": 987654321,
       "title": "Mario's Smart Case",
-      "is_connected": false,
+      "is_connected": "false",
       "battery_level": 80,
-      "helmet_present": false,
-      "case_open": true
+      "helmet_present": "false",
+      "case_open": "true"
     }
   ]
 }
